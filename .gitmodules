@@ -1,12 +1,6 @@
-[submodule "Assets/Tools/Batch Loop/UniTask/UniTask-Batch-Loop"]
-	path = Assets/Tools/Batch Loop/UniTask-Batch-Loop
-	url = https://github.com/juansheva/UniTask-Batch-Loop-Async.git
-[submodule "Assets/Tools/Batch Loop/a"]
-	path = Assets/Tools/Batch Loop/a
-	url = https://github.com/juansheva/UniTask-Batch-Loop-Async.git
 [submodule "Assets/Tools/Asset Bundle Manager"]
 	path = Assets/Tools/Asset Bundle Manager/UniTask Asset Bundle Manager
-	url = https://github.com/juansheva/Asset-Bundle-Manager.git
+	url = https://github.com/juansheva/UniTask-Asset-Bundle-Manager.git
 [submodule "Assets/Tools/Batch Loop/UniTask Batch Loop"]
 	path = Assets/Tools/Batch Loop/UniTask Batch Loop
 	url = https://github.com/juansheva/UniTask-Batch-Loop-Async.git
