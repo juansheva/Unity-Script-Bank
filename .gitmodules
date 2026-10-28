@@ -1,3 +1,3 @@
 [submodule "Assets/Tools/Batch Loop/UniTask/UniTask-Batch-Loop"]
-	path = Assets/Tools/Batch Loop/UniTask-Batch-Loop/UniTask-Batch-Loop
+	path = Assets/Tools/Batch Loop/UniTask-Batch-Loop
 	url = https://github.com/juansheva/UniTask-Batch-Loop-Async.git
