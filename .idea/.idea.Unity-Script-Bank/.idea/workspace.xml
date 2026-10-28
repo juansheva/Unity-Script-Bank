@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdf92aca-96df-43ad-9e77-512547d9b243" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-Script-Bank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-Script-Bank/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tools/Asset Bundle Manager/Assets/Tools/Asset Bundle Manager" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/Asset Bundle Manager/Assets/Tools/Asset Bundle Manager/UniTask Asset Bundle Manager" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tools/Batch Loop/UniTask Batch Loop" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/Batch Loop/UniTask Batch Loop" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
